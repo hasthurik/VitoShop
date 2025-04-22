@@ -11,6 +11,7 @@ public class UserCreateRequest {
     private String username;
     private String password;
     private String email;
-    private Set<Long> roles;
+    private String role;
+//    private Set<Long> roles;
 
 }

@@ -1,5 +1,6 @@
 package com.example.VitoShop.model;
 
+import com.example.VitoShop.entity.UsersEntity;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
